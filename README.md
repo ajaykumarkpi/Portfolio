@@ -1,9 +1,23 @@
 # First rails App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a Ruby On rails App
 
-Things you may want to cover:
+### Features
+
+- Realtime chat engine
+- Blog
+- Portfolio
+
+### Example
+
+```ruby
+def my_method
+	puts "Iam ruby"
+end
+```
+```javascript
+alert('hi there');
+````
 
 * Ruby version
 
